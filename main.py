@@ -29,7 +29,7 @@ print("Expected kilometers Sorted: " + str(sorted(df.Expected_km.unique())) + "\
 
 #fig_pie variable name of pie chart.
 #data_frame is df = pd.read_csv("tirestatistic.csv")
-#Select Genre for names
+#Select Tire for names
 #Select Values for Expected_km
 
 fig_pie = px.pie(data_frame=df, names='Tire', values='Expected_km')
@@ -52,7 +52,7 @@ fig_hist.show()
 fig_histprice = px.histogram(data_frame=df, x='Tire', y='Price_USD')
 fig_histprice.show()
 
-# Interactive Graphs with Dash (Python, R)
+# Interactive Dash Graph (Python, R)
 # -----------------------------------------------------------------
 
 import dash_core_components as dcc
