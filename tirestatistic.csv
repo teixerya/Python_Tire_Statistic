@@ -1,0 +1,13 @@
+﻿Tier,Tire,Tire_Type,Expected_km,Price_USD
+1,Michelin_X_Line_Energy_Z,Steer Tire,150000,550
+1,Michelin_X_Line_Energy_D,Drive tire,350000,545
+1,Michelin_X_Line_Energy_T,Trailer Tire,400000,470
+1,Bridgestone_R284_Ecopia,Steer Tire,130000,560
+1,Bridgestone_M710_Ecopia,Drive tire,260000,530
+1,Bridgestone_R197 ,Trailer Tire,410000,470
+1,Pirelli_H89_plus ,Steer Tire,125000,550
+1,Pirelli_H89_Drive_plus,Drive tire,330000,545
+1,Pirelli_H89_trailer,Trailer Tire,380000,470
+1,Continental_HS3,Steer Tire,120000,540
+1,Continental_HDL2,Drive tire,280000,560
+1,Continental_HT3_EcoPlus,Trailer Tire,180000,450
